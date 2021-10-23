@@ -1,3 +1,5 @@
+package Lesson2;
+
 public class Main {
 
 
@@ -45,3 +47,4 @@ public class Main {
     }
 
 }
+
